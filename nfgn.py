@@ -244,4 +244,4 @@ if job == 1:
             points_english = int(input("כמה יחידות אתה באנגלית"))
 
 
-
+print(("hi"))
