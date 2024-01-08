@@ -1,4 +1,4 @@
-import streamlit
+import streamlit as st
 job = int(input("אם אתה מורה הכנס את המספר 0 אם אתה תלמיד הכנס את המספר 1"))
 if job == 0:
     teacher_name = input("הכנס את השם שלך")
@@ -245,4 +245,3 @@ if job == 1:
             points_english = int(input("כמה יחידות אתה באנגלית"))
 
 
-print(("hi"))
